@@ -1,0 +1,12 @@
+E:\DCS\DCS Year 2 Sem 2\Event-Driven Programming\Lab5ofDatabase\Lab5ofDatabase\bin\Debug\Lab5ofDatabase.exe.config
+E:\DCS\DCS Year 2 Sem 2\Event-Driven Programming\Lab5ofDatabase\Lab5ofDatabase\bin\Debug\Lab5ofDatabase.exe
+E:\DCS\DCS Year 2 Sem 2\Event-Driven Programming\Lab5ofDatabase\Lab5ofDatabase\bin\Debug\Lab5ofDatabase.pdb
+E:\DCS\DCS Year 2 Sem 2\Event-Driven Programming\Lab5ofDatabase\Lab5ofDatabase\obj\Debug\Lab5ofDatabase.csproj.AssemblyReference.cache
+E:\DCS\DCS Year 2 Sem 2\Event-Driven Programming\Lab5ofDatabase\Lab5ofDatabase\obj\Debug\Lab5ofDatabase.Properties.Resources.resources
+E:\DCS\DCS Year 2 Sem 2\Event-Driven Programming\Lab5ofDatabase\Lab5ofDatabase\obj\Debug\Lab5ofDatabase.csproj.GenerateResource.cache
+E:\DCS\DCS Year 2 Sem 2\Event-Driven Programming\Lab5ofDatabase\Lab5ofDatabase\obj\Debug\Lab5ofDatabase.csproj.CoreCompileInputs.cache
+E:\DCS\DCS Year 2 Sem 2\Event-Driven Programming\Lab5ofDatabase\Lab5ofDatabase\obj\Debug\Lab5ofDatabase.exe
+E:\DCS\DCS Year 2 Sem 2\Event-Driven Programming\Lab5ofDatabase\Lab5ofDatabase\obj\Debug\Lab5ofDatabase.pdb
+E:\DCS\DCS Year 2 Sem 2\Event-Driven Programming\Lab5ofDatabase\Lab5ofDatabase\obj\Debug\Lab5ofDatabase.AdmiralPizza.resources
+E:\DCS\DCS Year 2 Sem 2\Event-Driven Programming\Lab5ofDatabase\Lab5ofDatabase\bin\Debug\AdmiralPizza.mdf
+E:\DCS\DCS Year 2 Sem 2\Event-Driven Programming\Lab5ofDatabase\Lab5ofDatabase\bin\Debug\AdmiralPizza_log.ldf
